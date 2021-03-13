@@ -7,6 +7,15 @@ public class AppiumTest {
 	@Test
 	public void NativePpAndroid() {
 		System.out.println("NativePpAndroid");
+		
+		System.out.println("NativePpAndroid");
+	}
+	
+	@Test
+	public void NativePpAndroidS() {
+		System.out.println("NativePpsAndroid");
+		
+		System.out.println("NativePpsAndroid");
 	}
 	
 	
@@ -14,6 +23,9 @@ public class AppiumTest {
 	@Test
 	public void IOSApps() {
 		System.out.println("IOSApps");
+		
+		System.out.println("IOSApps");
+		
 	}
 }
 

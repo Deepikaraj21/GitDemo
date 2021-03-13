@@ -20,6 +20,11 @@ public class SeleniumTest {
 	}
 	
 	
+	@Test
+	public void elementsUIi() {
+		System.out.println("elementsUIi");
+	}
+	
 }
 
 

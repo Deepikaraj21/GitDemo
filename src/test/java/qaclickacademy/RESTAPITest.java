@@ -12,8 +12,13 @@ public class RESTAPITest {
 	}
 	
 	@Test
-	public void IOSApps() {
-		System.out.println("IOSApps");
+	public void deleteTwitter() {
+		System.out.println("deleteTwitter");
+	}
+	
+	@Test
+	public void deleteTwitter12() {
+		System.out.println("deleteTwitter");
 	}
 }
 

@@ -11,8 +11,7 @@ public class SeleniumTest {
 		System.out.println("Web Automation results");
 	}
 	
-	
-	
+
 	
 	@Test
 	public void elementsUI() {
@@ -24,7 +23,8 @@ public class SeleniumTest {
 	public void elementsUIi() {
 		System.out.println("elementsUIi");
 	}
-	
+
+
 }
 
 

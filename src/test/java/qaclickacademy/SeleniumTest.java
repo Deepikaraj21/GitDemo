@@ -11,16 +11,14 @@ public class SeleniumTest {
 		System.out.println("Web Automation results");
 	}
 	
+	
+	
+	
 	@Test
 	public void elementsUI() {
 		System.out.println("elementsUI");
 	}
 	
-	
-//	@Test
-//	public void elementssUI() {
-//		System.out.println("elementssUI");
-//	}
 	
 }
 
